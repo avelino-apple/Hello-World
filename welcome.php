@@ -33,7 +33,7 @@ class Welcome extends CI_Controller {
     {
 
      //$data['contents']=$this->sample_db->show_content();
-     $this->load->view('view_contents');
+     $this->load->view('view_content');
 
     }
 }
